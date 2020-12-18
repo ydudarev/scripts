@@ -1,0 +1,2 @@
+rem regedit /s \\epb.local\SYSVOL\epb.local\Policies\{BA2E3272-CAE7-4439-8A7C-7284CCE9C517}\User\Scripts\Logon\TimeZoneInformation.reg
+regedit /s \\epb.local\SYSVOL\epb.local\Policies\{BA2E3272-CAE7-4439-8A7C-7284CCE9C517}\User\Scripts\Logon\TimeZones.reg

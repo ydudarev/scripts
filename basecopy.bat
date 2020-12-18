@@ -1,0 +1,1 @@
+copy /y "C:\script\ibases.v8i" "%userprofile%\AppData\Roaming\1C\1CEStart\"

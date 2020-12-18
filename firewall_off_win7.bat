@@ -1,0 +1,1 @@
+F:\script\PSTools\PsExec.exe \\condit-sklad4 netsh advfirewall set allprofiles state off

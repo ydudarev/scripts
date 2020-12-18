@@ -1,0 +1,1 @@
+F:\script\PSTools\PsExec.exe \\GL-INGINER net start remoteregistry
